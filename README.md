@@ -1,6 +1,6 @@
 # Arquitetura
 
-Arquitetura de projeto em React JS utilizando Styled Components 
+Modelo de arquitetura de projeto em React JS
 composto pelas páginas e seus caminhos:
 
 Página inicial:
